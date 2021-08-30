@@ -1,4 +1,4 @@
-#packages are to be installed before running this application
+#pycharm packages to be installed before running this application
 #opencv python, pygame and mediapipe
 #set your capture device to 0, 1 or 2 accordingly
 #detects hands and palms as well as feet with desired landmarks
