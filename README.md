@@ -98,4 +98,4 @@ https://engibex.com/foot-gesture-recognition/
 https://www.resna.org/sites/default/files/conference/2015/wheeled_mobility/student_scientific/lyons.html
 
 
-##Lastly, Sincere Thanks to Elements of AI Team, and University of Helsinki for designing and developing this course. It made my vision towards AI broad and made me believe in ##things which i though was out of my scope of knowledge. Thankyou very much. 
+Lastly, Sincere Thanks to Elements of AI Team, and University of Helsinki for designing and developing this course. It made my vision towards AI broad and made me believe in things which i though was out of my scope of knowledge. Thankyou very much. 
