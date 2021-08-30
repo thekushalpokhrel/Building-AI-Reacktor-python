@@ -29,16 +29,6 @@ Here are some pictures which you might be able to familiarize yourself with what
 
 ##Sample Source Code for training.py
 
-!wget https://github.com/hfg-gmuend/openmoji/releases/latest/download/openmoji-72x72-color.zip
-!mkdir emojis
-!unzip -q openmoji-72x72-color.zip -d ./emojis
-
-!wget https://github.com/hfg-gmuend/openmoji/releases/latest/download/openmoji-72x72-color.zip
-!mkdir emojis
-!unzip -q openmoji-72x72-color.zip -d ./emojis
-
-%matplotlib inline
-
 import tensorflow as tf
 import numpy as np
 import matplotlib.pyplot as plt
