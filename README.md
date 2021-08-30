@@ -72,11 +72,11 @@ for class_id, values in emojis.items():
 
 
 ## Data sources and AI methods
-It will be needing pictures of hands and feet or objects which i will grab from opensource data sets website and feed it to the systems for processing, it will not take more than 100 to 200 pictures of around 250 mb storage of a repository created inside the project folder, however it will be working perfectly as i have a prototype ready with quater of the functions ok tested.
+It will be needing pictures of objects, cars, people, street signs, traffic roads etc. which i will grab from opensource data sets website and feed it to the systems for processing, it will not take more than 100 to 200 pictures of around 250 mb storage of a repository created inside the project folder, however it will be working perfectly as i have a prototype ready with quater of the functions ok tested.
 
 ## Challenges
 
-The main challenges is to make a object oriented system which can detect objects, a large number of dataset is prevalent in the web but somehow it is still not enough for a system like this to be working for commercial industries or organisation. I am fully certain that a practice project is already ok tested, like hands and palm recognition is working as per the data i have provided to it but i will need to surpass the boundary of current data sets and need some more practice in to making this more effective system. 
+The main challenges is to make a object oriented system which can detect objects, faces, people and all, a large number of dataset is prevalent in the web but somehow it is still not enough for a system like this to be working for commercial industries or organisation. I am fully certain that a practice project is already ok tested, like hands and palm recognition is working as per the data i have provided to it but i will need to surpass the boundary of current data sets and need some more practice in to making this more effective system. 
 
 ## What next?
 
