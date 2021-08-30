@@ -1,4 +1,4 @@
-# Building Object Localisation and Detection AI(OLDAI)
+# Building Object Localisation Detection AI(OLDAI)
 
 My Final project for the University of Helsinki Elements of AI - Building AI course
 
