@@ -23,16 +23,11 @@ The problems it solves is:
 
 ## How is it used?
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+Here are some pictures which you might be able to familiarize yourself with what the system's capability would be: 
 
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
-
-If you need to resize images, you have to use an HTML tag, like this:
 ![imgdetection](https://user-images.githubusercontent.com/71119638/131369737-3befdda1-8514-42ed-87d6-bdf73add767b.jpg)
 ![holo2-detected](https://user-images.githubusercontent.com/71119638/131369768-f8ad5651-ff54-4fde-9aa9-f5e27f778966.jpg)
-![imgdetection](https://user-images.githubusercontent.com/71119638/131369796-b7ae279d-0591-4e3b-bf28-d86d22b0c413.jpg)
+![stolenvehicles](https://user-images.githubusercontent.com/71119638/131369926-7272a8f9-32b7-42ed-baf2-04dd6da4281a.jpg)
 
 
 
