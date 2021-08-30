@@ -4,7 +4,7 @@ My Final project for the University of Helsinki Elements of AI - Building AI cou
 
 ## Summary
 
-This project features the OpenCV, Mediapipe, TensorFlow and pygame packages with pycharm IDE. It focuses on localizing and detecting real life objects in real time with spot on movements and its frame rate. The idea for this is vast as to be able to develop a AI system that could detect objects, face and hands as in a complete package with proper real time email or messaging alerts if there are any changes undesirable set in the controller. This helps in automation of smart cameras into public sectors for 24/7 monitoring sites for desired optimum security benefits. Usually applicable for security / policing operation or crowd management sectors. 
+This project features the OpenCV, Mediapipe, TensorFlow, Numpy and pygame packages with pycharm IDE. It focuses on localizing and detecting real life objects in real time with spot on movements and its frame rate. The idea for this is vast as to be able to develop a AI system that could detect objects, face and hands as in a complete package with proper real time email or messaging alerts if there are any changes undesirable set in the controller. This helps in automation of smart cameras into public sectors for 24/7 monitoring sites for desired optimum security benefits. Usually applicable for security / policing operation or crowd management sectors. 
 
 
 ## Background
