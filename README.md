@@ -5,23 +5,23 @@ The University of Helsinki course featuring grow with google certificate practic
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# Builidng Hand and Feet Recognition AI
+# Building Hand and Feet Recognition AI
 
 Final project for the Building AI course
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+This project features the OpenCV, Mediapipe and pygame packages with pycharm IDE. It focuses on localizing and detecting Hand Gestures and Palm locations in real time with spot on movements and its frame rate. The idea for this is vast as to be able to develop a AI system that could detect objects, face and hands as in a complete package with proper real time email or messaging alerts if there are any changes undesirable set in the controller. This helps in automation of smart cameras into public sectors for 24/7 monitoring sites for desired optimum security benefits. Usually applicable for security / policing operation or crowd management sectors. 
 
 
 ## Background
 
 Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
 
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
+The problems it solves is: 
+* Crowd Management
+* Remote Security and Monitoring
+* Casual In-house monitoring solutions
 
 
 ## How is it used?
