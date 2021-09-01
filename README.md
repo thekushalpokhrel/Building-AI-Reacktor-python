@@ -19,7 +19,7 @@ The problems it solves is:
 
 ## How is it used?
 
-Here are some pictures which you might be able to familiarize yourself with what the system's capability would be: 
+Here are some sample pictures which you might be able to familiarize yourself with what the system's capability would be: 
 
 ![imgdetection](https://user-images.githubusercontent.com/71119638/131369737-3befdda1-8514-42ed-87d6-bdf73add767b.jpg)
 ![holo2-detected](https://user-images.githubusercontent.com/71119638/131369768-f8ad5651-ff54-4fde-9aa9-f5e27f778966.jpg)
